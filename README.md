@@ -58,12 +58,6 @@
   <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=dark&font=Fira%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif" width="300" />
-  <br>
-  <em>Me explaining my O(n!) solution to my confused dog</em>
-</p>
-
 <h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
