@@ -1,8 +1,4 @@
-<h1 align="center">👋 Hello World! I'm Anvesh Srivastava</h1>
-
-<p align="center">
-  <em>Turning caffeine into code since [Your Birth Year]</em>
-</p>
+<h1 align="center">👋 Hello! I'm Anvesh Srivastava</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anvesh-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -18,10 +14,8 @@
 <h2 align="center">🚀 About Me</h2>
 
 - 🎓 Final year student at VIT Bhopal
-- 💻 Full-stack developer in the making
 - 🌱 Currently learning how to exit Vim
 - 🤔 Wondering if P = NP or if it's just another JavaScript framework
-- 💬 Ask me about my rubber duck debugging techniques
 
 <h2 align="center">🛠️ Tech Toolbox</h2>
 
@@ -57,12 +51,6 @@
   <a href="https://github.com/rookieanvesh/job-portal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=job-portal&theme=radical" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
-  <br>
-  <em>My code after a Red Bull-fueled coding session</em>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
