@@ -84,17 +84,5 @@
   <em>(But please, no COBOL. I don't speak dinosaur.)</em>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
-  <br>
-  <em>Me, waiting for my pull request to be reviewed</em>
-</p>
 
-<h2 align="center">💭 Thoughts on Programming Languages</h2>
 
-- Python: Where indentation is not just good practice, it's the law
-- JavaScript: Because who needs types when you have `undefined`?
-- C++: For when you absolutely, positively need to shoot yourself in the foot
-- Ruby: Making developers happy, one `end` at a time
-- Go: For those who think error handling should be a full-time job
-- Rust: Because nothing says "I love you" like fighting with the borrow checker
