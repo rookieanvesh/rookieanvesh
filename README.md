@@ -1,18 +1,35 @@
-<h1 align="center">Anvesh Srivastava</h1>
+<h1 align="center">Hi there, I'm Anvesh Srivastava! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
-  <em>Final Year Student at VIT Bhopal | Aspiring Software Developer</em>
+  <em>Final Year Student at VIT Bhopal | Aspiring Software Developer | Java Enthusiast</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anvesh-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:srivastavaanvesh13@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+</p>
 
-<h3 align="center">🛠 Technology Stack</h3>
+<h2 align="center">About Me</h2>
+
+
+const anvesh = {
+  code: ["Java", "Python", "JavaScript"],
+  technologies: {
+    backEnd: ["Spring Boot", "Kafka"],
+    frontEnd: ["React"],
+    databases: ["MySQL", "PostgreSQL"],
+    devOps: ["Git", "Docker", "Kubernetes"],
+  },
+  currentFocus: "Building scalable microservices and crushing LeetCode problems",
+  funFact: "I debug code faster than I debug my life problems!"
+};
+
+
+<h2 align="center">🛠 Technology Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -27,37 +44,53 @@
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
----
-
-<h3 align="center">🌟 Featured Projects</h3>
+<h2 align="center">🌟 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark" />
+  <a href="https://github.com/rookieanvesh/hotel-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=hotel-management&theme=radical" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark" />
+  <a href="https://github.com/rookieanvesh/microservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=microservices&theme=radical" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/rookieanvesh/job-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=job-portal&theme=radical" />
   </a>
 </p>
 
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
 </p>
 
----
+<h2 align="center">📊 GitHub Stats</h2>
 
-<h3 align="center">🏆 LeetCode Progress</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rookieanvesh&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<h2 align="center">🏆 LeetCode Progress</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=dark&font=Fira%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/5tdqM1mUNvg7ox9gOi/giphy.gif" width="300" />
+</p>
+
+<h2 align="center">📫 Get in Touch</h2>
 
 <p align="center">
-  <em>Open to exciting opportunities in software development!</em>
+  <a href="https://www.linkedin.com/in/anvesh-/">LinkedIn</a> •
+  <a href="mailto:srivastavaanvesh13@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <em>Open to exciting opportunities in software development! Let's build something amazing together!</em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
 </p>
