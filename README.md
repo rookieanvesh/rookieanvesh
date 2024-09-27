@@ -47,7 +47,7 @@
 </p>
 <h2 align="center">🧠 Gfg Progress</h2>
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=<YOUR_USERNAME>" alt="GFG stats"/>
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=srivastavaanvesh13" alt="GFG stats"/>
 </p>
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
