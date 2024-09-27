@@ -1,4 +1,4 @@
-<h1 align="center">public class AnveshSrivastava extends Developer {</h1>
+<h1 align="center">public class AnveshSrivastava extends HumanBeing implements JavaEnthusiast {</h1>
 
 <p align="center">
   <em>// TODO: Graduate from VIT Bhopal and conquer the coding world</em>
@@ -11,37 +11,32 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+  <br>
+  <em>Me, trying to remember all of Java's design patterns</em>
 </p>
 
 <h2 align="center">System.out.println("About Me");</h2>
 
 ```java
-import java.util.List;
-import java.util.Random;
+public class AnveshBio {
+    private final String[] skills = {"Java", "Spring Boot", "Kafka", "React", "MySQL", "PostgreSQL"};
+    private final String currentFocus = "Building scalable microservices and battling LeetCode";
+    private String mood;
 
-public class AnveshSrivastava extends Developer {
-    private final List<String> skills = List.of("Java", "Spring Boot", "Kafka", "React", "MySQL", "PostgreSQL");
-    private final String currentFocus = "Building robust applications and battling LeetCode";
-
-    public String getFunFact() {
-        List<String> funFacts = List.of(
-            "I once debugged a problem by talking to a rubber duck. The duck was more helpful than Stack Overflow!",
-            "I believe that the real Y2K bug is hiding in Java's Date API, waiting to strike in 2038!",
-            "I tried to implement a quantum algorithm, but my cat kept interfering with the superposition."
-        );
-        return funFacts.get(new Random().nextInt(funFacts.size()));
+    public AnveshBio() {
+        this.mood = "Caffeinated";
     }
 
-    @Override
-    public void solveProblems() {
-        while (true) {
-            if (coffee.isEmpty()) {
-                refillCoffee();
-            }
-            Code solution = brain.processProblem(currentProblem);
-            if (solution.isElegant() && solution.isEfficient()) {
-                break;
-            }
+    public String getFunFact() {
+        return "I have a love-hate relationship with semicolons; they're like my ex – I miss them when they're gone, " +
+               "but they drive me crazy when they're around!";
+    }
+
+    public void code() {
+        while (mood.equals("Caffeinated")) {
+            System.out.println("public static void main(String[] args) {");
+            System.out.println("    // TODO: Write groundbreaking code here");
+            System.out.println("}");
         }
     }
 }
@@ -61,6 +56,12 @@ public class AnveshSrivastava extends Developer {
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vRc55Fcp0Qc7vGM/giphy.gif" width="300" />
+  <br>
+  <em>My brain after learning a new Java framework</em>
+</p>
+
 <h2 align="center">git commit -m "Featured Projects"</h2>
 
 <p align="center">
@@ -77,6 +78,12 @@ public class AnveshSrivastava extends Developer {
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+  <br>
+  <em>My code after pulling an all-nighter</em>
+</p>
+
 <h2 align="center">Arrays.toString(githubStats);</h2>
 
 <p align="center">
@@ -89,6 +96,12 @@ public class AnveshSrivastava extends Developer {
   <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=dark&font=Fira%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/5tdqM1mUNvg7ox9gOi/giphy.gif" width="300" />
+  <br>
+  <em>Me explaining my LeetCode solution to my rubber duck</em>
+</p>
+
 <h2 align="center">System.out.println("Let's Connect!");</h2>
 
 <p align="center">
@@ -98,6 +111,14 @@ public class AnveshSrivastava extends Developer {
 
 <p align="center">
   <em>Open to exciting opportunities in software development! Let's build something amazing together!</em>
+  <br>
+  <em>(But please, no more legacy Java EE projects. I've seen things you people wouldn't believe...)</em>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+  <br>
+  <em>Me, waiting for my code to compile</em>
 </p>
 
 <h1 align="center">}</h1>
