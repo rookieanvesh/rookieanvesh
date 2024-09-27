@@ -41,15 +41,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rookieanvesh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rookieanvesh&theme=radical" alt="GitHub Streak" />
-</p>
 <h2 align="center">🧠 LeetCode Progress</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=dark&font=Fira%20Mono&ext=heatmap" alt="LeetCode Stats"/>
-</p>
-<p align="center">
-  <a href="https://www.codechef.com/users/codechef_username"><img src="https://cp-logo.vercel.app/codechef/codechef_username" alt="CodeChef Badge"/></a>
 </p>
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
@@ -61,8 +55,3 @@
   <br>
   <em>(But please, no COBOL. I don't speak dinosaur.)</em>
 </p>
-
-<p align="center">
-  <img src="https://github.com/rookieanvesh/rookieanvesh/blob/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake">
-</p>
-
