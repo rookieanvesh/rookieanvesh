@@ -1,7 +1,7 @@
-<h1 align="center">public class AnveshSrivastava extends HumanBeing implements JavaEnthusiast {</h1>
+<h1 align="center">👋 Hello World! I'm Anvesh Srivastava</h1>
 
 <p align="center">
-  <em>// TODO: Graduate from VIT Bhopal and conquer the coding world</em>
+  <em>Turning caffeine into code since [Your Birth Year]</em>
 </p>
 
 <p align="center">
@@ -12,37 +12,18 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
   <br>
-  <em>Me, trying to remember all of Java's design patterns</em>
+  <em>Me, trying to choose between 100 JavaScript frameworks</em>
 </p>
 
-<h2 align="center">System.out.println("About Me");</h2>
+<h2 align="center">🚀 About Me</h2>
 
-```java
-public class AnveshBio {
-    private final String[] skills = {"Java", "Spring Boot", "Kafka", "React", "MySQL", "PostgreSQL"};
-    private final String currentFocus = "Building scalable microservices and battling LeetCode";
-    private String mood;
+- 🎓 Final year student at VIT Bhopal
+- 💻 Full-stack developer in the making
+- 🌱 Currently learning how to exit Vim
+- 🤔 Wondering if P = NP or if it's just another JavaScript framework
+- 💬 Ask me about my rubber duck debugging techniques
 
-    public AnveshBio() {
-        this.mood = "Caffeinated";
-    }
-
-    public String getFunFact() {
-        return "I have a love-hate relationship with semicolons; they're like my ex – I miss them when they're gone, " +
-               "but they drive me crazy when they're around!";
-    }
-
-    public void code() {
-        while (mood.equals("Caffeinated")) {
-            System.out.println("public static void main(String[] args) {");
-            System.out.println("    // TODO: Write groundbreaking code here");
-            System.out.println("}");
-        }
-    }
-}
-```
-
-<h2 align="center">Tech Stack.push(newSkill);</h2>
+<h2 align="center">🛠️ Tech Toolbox</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -59,10 +40,10 @@ public class AnveshBio {
 <p align="center">
   <img src="https://media.giphy.com/media/l3vRc55Fcp0Qc7vGM/giphy.gif" width="300" />
   <br>
-  <em>My brain after learning a new Java framework</em>
+  <em>My brain after learning YAML indentation in Kubernetes</em>
 </p>
 
-<h2 align="center">git commit -m "Featured Projects"</h2>
+<h2 align="center">🏆 Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/rookieanvesh/hotel-management">
@@ -81,16 +62,16 @@ public class AnveshBio {
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
   <br>
-  <em>My code after pulling an all-nighter</em>
+  <em>My code after a Red Bull-fueled coding session</em>
 </p>
 
-<h2 align="center">Arrays.toString(githubStats);</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rookieanvesh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<h2 align="center">while(true) { solveLeetCode(); }</h2>
+<h2 align="center">🧠 LeetCode Progress</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=dark&font=Fira%20Mono&ext=heatmap" alt="LeetCode Stats"/>
@@ -99,26 +80,33 @@ public class AnveshBio {
 <p align="center">
   <img src="https://media.giphy.com/media/5tdqM1mUNvg7ox9gOi/giphy.gif" width="300" />
   <br>
-  <em>Me explaining my LeetCode solution to my rubber duck</em>
+  <em>Me explaining my O(n!) solution to my confused cat</em>
 </p>
 
-<h2 align="center">System.out.println("Let's Connect!");</h2>
+<h2 align="center">📫 Let's Connect!</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anvesh-/">LinkedIn.connect()</a> •
-  <a href="mailto:srivastavaanvesh13@gmail.com">Email.send()</a>
+  <a href="https://www.linkedin.com/in/anvesh-/">LinkedIn</a> •
+  <a href="mailto:srivastavaanvesh13@gmail.com">Email</a>
 </p>
 
 <p align="center">
   <em>Open to exciting opportunities in software development! Let's build something amazing together!</em>
   <br>
-  <em>(But please, no more legacy Java EE projects. I've seen things you people wouldn't believe...)</em>
+  <em>(But please, no COBOL. I don't speak dinosaur.)</em>
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
   <br>
-  <em>Me, waiting for my code to compile</em>
+  <em>Me, waiting for my pull request to be reviewed</em>
 </p>
 
-<h1 align="center">}</h1>
+<h2 align="center">💭 Thoughts on Programming Languages</h2>
+
+- Python: Where indentation is not just good practice, it's the law
+- JavaScript: Because who needs types when you have `undefined`?
+- C++: For when you absolutely, positively need to shoot yourself in the foot
+- Ruby: Making developers happy, one `end` at a time
+- Go: For those who think error handling should be a full-time job
+- Rust: Because nothing says "I love you" like fighting with the borrow checker
