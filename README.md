@@ -15,7 +15,7 @@
 
 <h2 align="center">About Me</h2>
 
-
+```javascript
 const anvesh = {
   code: ["Java", "Python", "JavaScript"],
   technologies: {
@@ -27,7 +27,7 @@ const anvesh = {
   currentFocus: "Building scalable microservices and crushing LeetCode problems",
   funFact: "I debug code faster than I debug my life problems!"
 };
-
+```
 
 <h2 align="center">🛠 Technology Stack</h2>
 
