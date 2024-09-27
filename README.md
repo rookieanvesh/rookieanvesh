@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Anvesh Srivastava! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">public class AnveshSrivastava extends Developer {</h1>
 
 <p align="center">
-  <em>Final Year Student at VIT Bhopal | Aspiring Software Developer | Java Enthusiast</em>
+  <em>// TODO: Graduate from VIT Bhopal and conquer the coding world</em>
 </p>
 
 <p align="center">
@@ -13,23 +13,41 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">System.out.println("About Me");</h2>
 
-```javascript
-const anvesh = {
-  code: ["Java", "Python", "JavaScript"],
-  technologies: {
-    backEnd: ["Spring Boot", "Kafka"],
-    frontEnd: ["React"],
-    databases: ["MySQL", "PostgreSQL"],
-    devOps: ["Git", "Docker", "Kubernetes"],
-  },
-  currentFocus: "Building scalable microservices and crushing LeetCode problems",
-  funFact: "I debug code faster than I debug my life problems!"
-};
+```java
+import java.util.List;
+import java.util.Random;
+
+public class AnveshSrivastava extends Developer {
+    private final List<String> skills = List.of("Java", "Spring Boot", "Kafka", "React", "MySQL", "PostgreSQL");
+    private final String currentFocus = "Building robust applications and battling LeetCode";
+
+    public String getFunFact() {
+        List<String> funFacts = List.of(
+            "I once debugged a problem by talking to a rubber duck. The duck was more helpful than Stack Overflow!",
+            "I believe that the real Y2K bug is hiding in Java's Date API, waiting to strike in 2038!",
+            "I tried to implement a quantum algorithm, but my cat kept interfering with the superposition."
+        );
+        return funFacts.get(new Random().nextInt(funFacts.size()));
+    }
+
+    @Override
+    public void solveProblems() {
+        while (true) {
+            if (coffee.isEmpty()) {
+                refillCoffee();
+            }
+            Code solution = brain.processProblem(currentProblem);
+            if (solution.isElegant() && solution.isEfficient()) {
+                break;
+            }
+        }
+    }
+}
 ```
 
-<h2 align="center">🛠 Technology Stack</h2>
+<h2 align="center">Tech Stack.push(newSkill);</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -38,13 +56,12 @@ const anvesh = {
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-<h2 align="center">🌟 Featured Projects</h2>
+<h2 align="center">git commit -m "Featured Projects"</h2>
 
 <p align="center">
   <a href="https://github.com/rookieanvesh/hotel-management">
@@ -60,37 +77,27 @@ const anvesh = {
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">Arrays.toString(githubStats);</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rookieanvesh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<h2 align="center">🏆 LeetCode Progress</h2>
+<h2 align="center">while(true) { solveLeetCode(); }</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=dark&font=Fira%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/5tdqM1mUNvg7ox9gOi/giphy.gif" width="300" />
-</p>
-
-<h2 align="center">📫 Get in Touch</h2>
+<h2 align="center">System.out.println("Let's Connect!");</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anvesh-/">LinkedIn</a> •
-  <a href="mailto:srivastavaanvesh13@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/anvesh-/">LinkedIn.connect()</a> •
+  <a href="mailto:srivastavaanvesh13@gmail.com">Email.send()</a>
 </p>
 
 <p align="center">
   <em>Open to exciting opportunities in software development! Let's build something amazing together!</em>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
-</p>
+<h1 align="center">}</h1>
