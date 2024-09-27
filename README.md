@@ -30,12 +30,6 @@
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRc55Fcp0Qc7vGM/giphy.gif" width="300" />
-  <br>
-  <em>My brain after learning YAML indentation in Kubernetes</em>
-</p>
-
 <h2 align="center">🏆 Featured Projects</h2>
 
 <p align="center">
