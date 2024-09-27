@@ -49,6 +49,10 @@
 <p align="center">
   <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=srivastavaanvesh13" alt="GFG stats"/>
 </p>
+  <h2 align="center">🧠 CodeChef Progress</h2>
+<p align="center">
+  <img src="https://cp-logo.vercel.app/codechef/rookieanvesh" alt="CodeChef stats"/>
+</p>
 <h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/anvesh-/">LinkedIn</a> •
