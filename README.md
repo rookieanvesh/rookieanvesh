@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
   <br>
-  <em>Me, trying to choose between 100 JavaScript frameworks</em>
 </p>
 
 <h2 align="center">🚀 About Me</h2>
