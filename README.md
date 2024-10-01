@@ -8,7 +8,7 @@
   <br>
 </p>
 <h2 align="center">🚀 About Me</h2>
-- 🎓 Final year student at VIT Bhopal <br>
+🎓 Final year student at VIT Bhopal <br>
 - 🌱 Currently learning how to exit Vim <br>
 - 🤔 Wondering if P = NP or if it's just another JavaScript framework <br>
 <h2 align="center">🛠️ Tech Toolbox</h2>
