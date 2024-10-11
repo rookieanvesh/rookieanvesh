@@ -41,8 +41,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rookieanvesh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rookieanvesh&theme=radical)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=rookieanvesh&theme=radical)](https://git.io/streak-stats)
+</p>
 <h2 align="center">🧠 LeetCode Progress</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=dark&font=Fira%20Mono&ext=heatmap" alt="LeetCode Stats"/>
