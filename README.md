@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rookieanvesh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=rookieanvesh&theme=radical)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=rookieanvesh&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 <h2 align="center">🧠 LeetCode Progress</h2>
 <p align="center">
