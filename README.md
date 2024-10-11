@@ -44,7 +44,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rookieanvesh&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
-[![An image of @rookieanvesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rookieanvesh)](https://holopin.io/@rookieanvesh)
 <h2 align="center">🧠 LeetCode Progress</h2>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=dark&font=Fira%20Mono&ext=heatmap" alt="LeetCode Stats"/>
