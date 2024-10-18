@@ -37,7 +37,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=job-portal&theme=radical" />
   </a>
 </p>
-<h2> [![An image of @rookieanvesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rookieanvesh)](https://holopin.io/@rookieanvesh) </h2>
+<h2> 
+  <img src="https://holopin.me/rookieanvesh)](https://holopin.io/@rookieanvesh" />
+</h2>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rookieanvesh&show_icons=true&theme=radical" alt="GitHub Stats" />
