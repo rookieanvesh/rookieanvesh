@@ -38,7 +38,7 @@
   </a>
 </p>
 <h2> 
-  <img src="https://holopin.me/rookieanvesh)](https://holopin.io/@rookieanvesh" />
+  <img src="https://holopin.io/@rookieanvesh" />
 </h2>
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
