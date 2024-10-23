@@ -39,141 +39,77 @@ const anvesh = {
 
 <div align="center">
 
-<!-- Main Technologies with Floating Animation -->
-<h3>Languages & Frameworks</h3>
-<table border="0">
-  <tr>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: float 6s ease-in-out infinite;">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" alt="Java" />
-      </div>
-    </td>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: float 6s ease-in-out infinite 0.5s;">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React" />
-      </div>
-    </td>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: float 6s ease-in-out infinite 1s;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
-      </div>
-    </td>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: float 6s ease-in-out infinite 1.5s;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
-      </div>
-    </td>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: float 6s ease-in-out infinite 2s;">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" />
-      </div>
-    </td>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: float 6s ease-in-out infinite 2.5s;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" />
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- Main Technologies -->
+<h3>Core Technologies & Frameworks</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<!-- Infrastructure & Cloud with Bounce Animation -->
-<h3>Infrastructure & Cloud</h3>
-<table border="0">
-  <tr>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: bounce 6s ease-in-out infinite;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="60" height="60" alt="Kubernetes" />
-      </div>
-    </td>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: bounce 6s ease-in-out infinite 0.5s;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" height="60" alt="AWS" />
-      </div>
-    </td>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: bounce 6s ease-in-out infinite 1s;">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="60" height="60" alt="Nginx" />
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="java" style="padding-right:10px;" />
 
-<!-- Databases with Spin Animation -->
-<h3>Databases</h3>
-<table border="0">
-  <tr>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: spin 8s linear infinite;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" alt="MySQL" />
-      </div>
-    </td>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: spin 8s linear infinite 1s;">
-        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="60" height="60" alt="MongoDB" />
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=spring" width="60" height="60" alt="spring" style="padding-right:10px;"/>
 
-<!-- Tools with Pulse Animation -->
-<h3>Tools & IDEs</h3>
-<table border="0">
-  <tr>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: pulse 2s ease-in-out infinite;">
-        <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VSCode" />
-      </div>
-    </td>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: pulse 2s ease-in-out infinite 0.3s;">
-        <img src="https://skillicons.dev/icons?i=idea" width="60" height="60" alt="IntelliJ" />
-      </div>
-    </td>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: pulse 2s ease-in-out infinite 0.6s;">
-        <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
-      </div>
-    </td>
-    <td align="center" width="110" height="90">
-      <div style="display: inline-block; animation: pulse 2s ease-in-out infinite 0.9s;">
-        <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" />
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="react" style="padding-right:10px;"/>
 
-<!-- Add these animation keyframes to your README -->
-<style>
-@keyframes float {
-  0% { transform: translate(0, 0px) rotate(0deg); }
-  50% { transform: translate(0, -10px) rotate(10deg); }
-  100% { transform: translate(0, 0px) rotate(0deg); }
-}
+<img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="redux" style="padding-right:10px;"/>
 
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-20px); }
-}
+<img src="https://skillicons.dev/icons?i=kafka" width="60" height="60" alt="kafka" style="padding-right:10px;"/>
 
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="60" height="60" alt="docker" style="padding-right:10px;"/>
 
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-</style>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60" alt="kubernetes" style="padding-right:10px;"/>
+</div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Databases -->
+<h3>Databases & Storage</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<!-- Dynamic 3D Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rookieanvesh&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="mysql" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="postgres" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="mongodb" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=redis" width="60" height="60" alt="redis" style="padding-right:10px;"/>
+</div>
+
+<!-- Frontend & Design -->
+<h3>Frontend & Design</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="html" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="css" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="javascript" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="typescript" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="tailwind" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=materialui" width="60" height="60" alt="materialui" style="padding-right:10px;"/>
+</div>
+
+<!-- Tools & Platforms -->
+<h3>Tools & Platforms</h3>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="git" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="github" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="aws" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="vscode" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=idea" width="60" height="60" alt="intellij" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="postman" style="padding-right:10px;"/>
+
+<img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="linux" style="padding-right:10px;"/>
+</div>
+
+<!-- For a cool 3D effect, add this animated border -->
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
