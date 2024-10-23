@@ -2,7 +2,9 @@
   
 # 🌟 Anvesh Srivastava
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Enthusiast;Microservices+Architecture+Lover;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Code+Wizard+in+Training+%F0%9F%94%AE;Bug+Hunter+Extraordinaire+%F0%9F%90%9B;Stack+Overflow+Copy+Paste+Ninja+%F0%9F%A5%B7;Professional+Googler+%F0%9F%94%8D;Coffee+to+Code+Converter+%E2%98%95;Error+Message+Collector+%F0%9F%93%9C;Turning+Caffeine+into+Code+%F0%9F%8C%9F;Ctrl%2BZ+Professional+%E2%9C%A8)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
   <a href="https://www.linkedin.com/in/anvesh-/">
@@ -74,12 +76,13 @@ const anvesh = {
 <!-- Hacktoberfest Badges -->
 [![@rookieanvesh's Holopin board](https://holopin.me/rookieanvesh)](https://holopin.io/@rookieanvesh)
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rookieanvesh&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rookieanvesh&theme=radical&hide_border=true" width="49%" alt="streaks graph" />
-<img src="https://github-readme-stats.vercel.app/api?username=rookieanvesh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="stats graph" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rookieanvesh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="stats graph" />
 </p>
 
 ## 🏆 Coding Profiles
