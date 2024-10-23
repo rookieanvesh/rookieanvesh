@@ -2,9 +2,13 @@
   
 # 🌟 Anvesh Srivastava
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Senior+Dev%3A+%22It+works+on+my+machine%22;Me%3A+%22I+am+the+machine%22+%F0%9F%A4%96;404%3A+Social+Life+Not+Found+%F0%9F%A5%B2;Relationship+Status%3A+Committed+to+Git;My+Code+%3D+!BadCode+%2B%2B+%F0%9F%A4%94;Bugs+are+just+undocumented+features;Code+Blocker%3A+Missing+Semicolon+%7B%7D;PRs+out+for+review+since+1999+%F0%9F%95%B0;rm+-rf+bugs%2F*+%7C%7C+order_pizza())](https://git.io/typing-svg)
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Animated coding gif"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=1x+Engineer%2C+10x+Bugs+Generator;git+push+--force+%F0%9F%92%A5;while(!(succeed+%3D+try()));+%F0%9F%94%84;Real+programmers+count+from+0;Time+Complexity%3A+O(coffee%5En);localhost+sweet+localhost+%F0%9F%8F%A0)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <div>
   <a href="https://www.linkedin.com/in/anvesh-/">
