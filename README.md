@@ -9,19 +9,6 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-<div align="center">
-  <a href="https://github.com/SP-XD">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
-    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br>
-  </a>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rookieanvesh&layout=compact&langs_count=8&theme=algolia"/>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=rookieanvesh&column=8&theme=gruvbox&no-frame=true"/>
-</a>
-</div>
 
 <div>
   <a href="https://www.linkedin.com/in/anvesh-/">
@@ -52,110 +39,141 @@ const anvesh = {
 
 <div align="center">
 
-<!-- Animated Skills -->
-<p align="center">
-<a href="https://skillicons.dev">
-  <!-- First Row: Frameworks & Main Tech -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,react,redux,kafka,docker,kubernetes&theme=dark&perline=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,react,redux,kafka,docker,kubernetes&theme=light&perline=7" />
-    <img width="500" alt="Shows a dynamic row of tech stack icons" src="https://skillicons.dev/icons?i=java,spring,react,redux,kafka,docker,kubernetes&perline=7" />
-  </picture>
-</a>
-
-<!-- Second Row: Databases & Tools -->
-<a href="https://skillicons.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,azure&theme=dark&perline=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,azure&theme=light&perline=7" />
-    <img width="500" alt="Shows a dynamic row of database icons" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,azure&perline=7" />
-  </picture>
-</a>
-
-<!-- Third Row: Frontend & Design -->
-<a href="https://skillicons.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,materialui,flutter&theme=dark&perline=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,materialui,flutter&theme=light&perline=7" />
-    <img width="500" alt="Shows a dynamic row of frontend tech icons" src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,materialui,flutter&perline=7" />
-  </picture>
-</a>
-
-<!-- Fourth Row: Tools & Platforms -->
-<a href="https://skillicons.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,bash&theme=dark&perline=7" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,bash&theme=light&perline=7" />
-    <img width="500" alt="Shows a dynamic row of development tools icons" src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,bash&perline=7" />
-  </picture>
-</a>
-</p>
-
-<!-- Add these spinning 3D logos below -->
-<p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react_3d.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java_3d.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/kubernetes_3d.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>
-
-<!-- Animated Tech Stack -->
-<table>
+<!-- Main Technologies with Floating Animation -->
+<h3>Languages & Frameworks</h3>
+<table border="0">
   <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <div style="display: inline-block; animation: floating 3s ease-in-out infinite;">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-        </div>
-      </a>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: float 6s ease-in-out infinite;">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" height="60" alt="Java" />
+      </div>
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <div style="display: inline-block; animation: floating 3s ease-in-out infinite 0.5s;">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-        </div>
-      </a>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: float 6s ease-in-out infinite 0.5s;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" height="60" alt="React" />
+      </div>
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <div style="display: inline-block; animation: floating 3s ease-in-out infinite 1s;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        </div>
-      </a>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: float 6s ease-in-out infinite 1s;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" height="60" alt="JavaScript" />
+      </div>
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <div style="display: inline-block; animation: floating 3s ease-in-out infinite 1.5s;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        </div>
-      </a>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: float 6s ease-in-out infinite 1.5s;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" height="60" alt="Python" />
+      </div>
+    </td>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: float 6s ease-in-out infinite 2s;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="GitHub" />
+      </div>
+    </td>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: float 6s ease-in-out infinite 2.5s;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="Docker" />
+      </div>
     </td>
   </tr>
 </table>
 
-<!-- Add this CSS in your README for the floating animation -->
+<!-- Infrastructure & Cloud with Bounce Animation -->
+<h3>Infrastructure & Cloud</h3>
+<table border="0">
+  <tr>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: bounce 6s ease-in-out infinite;">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="60" height="60" alt="Kubernetes" />
+      </div>
+    </td>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: bounce 6s ease-in-out infinite 0.5s;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" height="60" alt="AWS" />
+      </div>
+    </td>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: bounce 6s ease-in-out infinite 1s;">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="60" height="60" alt="Nginx" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Databases with Spin Animation -->
+<h3>Databases</h3>
+<table border="0">
+  <tr>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: spin 8s linear infinite;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" height="60" alt="MySQL" />
+      </div>
+    </td>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: spin 8s linear infinite 1s;">
+        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="60" height="60" alt="MongoDB" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Tools with Pulse Animation -->
+<h3>Tools & IDEs</h3>
+<table border="0">
+  <tr>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: pulse 2s ease-in-out infinite;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VSCode" />
+      </div>
+    </td>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: pulse 2s ease-in-out infinite 0.3s;">
+        <img src="https://skillicons.dev/icons?i=idea" width="60" height="60" alt="IntelliJ" />
+      </div>
+    </td>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: pulse 2s ease-in-out infinite 0.6s;">
+        <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
+      </div>
+    </td>
+    <td align="center" width="110" height="90">
+      <div style="display: inline-block; animation: pulse 2s ease-in-out infinite 0.9s;">
+        <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="Postman" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- Add these animation keyframes to your README -->
 <style>
-@keyframes floating {
-  0% { transform: translate(0, 0px); }
-  50% { transform: translate(0, 15px); }
-  100% { transform: translate(0, -0px); }
+@keyframes float {
+  0% { transform: translate(0, 0px) rotate(0deg); }
+  50% { transform: translate(0, -10px) rotate(10deg); }
+  100% { transform: translate(0, 0px) rotate(0deg); }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
 }
 </style>
 
-<!-- Animated Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Cool Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Dynamic 3D Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rookieanvesh&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+</p>
 
 </div>
 
