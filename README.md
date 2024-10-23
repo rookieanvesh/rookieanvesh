@@ -2,7 +2,7 @@
   
 # 🌟 Anvesh Srivastava
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Still+Trying+to+Exit+Vim+Since+2022+%F0%9F%9A%AA;Arrays+Start+at+1...+Just+Kidding+%F0%9F%99%83;git+commit+-m+%22whatever%22+%F0%9F%A4%B7;Trust+me%2C+I+Tested+in+Production+%F0%9F%98%88;semicolon+collector+%7B%7D+%F0%9F%93%9D;PhD+in+Stack+Overflow+Studies+%F0%9F%8E%93;Runtime+Error%3A+Brain.js+Not+Found+%F0%9F%A4%94;import+coffee+from+%27reality%27+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Senior+Dev%3A+%22It+works+on+my+machine%22;Me%3A+%22I+am+the+machine%22+%F0%9F%A4%96;404%3A+Social+Life+Not+Found+%F0%9F%A5%B2;Relationship+Status%3A+Committed+to+Git;My+Code+%3D+!BadCode+%2B%2B+%F0%9F%A4%94;Bugs+are+just+undocumented+features;Code+Blocker%3A+Missing+Semicolon+%7B%7D;PRs+out+for+review+since+1999+%F0%9F%95%B0;rm+-rf+bugs%2F*+%7C%7C+order_pizza())](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
