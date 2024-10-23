@@ -2,7 +2,7 @@
   
 # 🌟 Anvesh Srivastava
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Code+Wizard+in+Training+%F0%9F%94%AE;Bug+Hunter+Extraordinaire+%F0%9F%90%9B;Stack+Overflow+Copy+Paste+Ninja+%F0%9F%A5%B7;Professional+Googler+%F0%9F%94%8D;Coffee+to+Code+Converter+%E2%98%95;Error+Message+Collector+%F0%9F%93%9C;Turning+Caffeine+into+Code+%F0%9F%8C%9F;Ctrl%2BZ+Professional+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Still+Trying+to+Exit+Vim+Since+2022+%F0%9F%9A%AA;Arrays+Start+at+1...+Just+Kidding+%F0%9F%99%83;git+commit+-m+%22whatever%22+%F0%9F%A4%B7;Trust+me%2C+I+Tested+in+Production+%F0%9F%98%88;semicolon+collector+%7B%7D+%F0%9F%93%9D;PhD+in+Stack+Overflow+Studies+%F0%9F%8E%93;Runtime+Error%3A+Brain.js+Not+Found+%F0%9F%A4%94;import+coffee+from+%27reality%27+%E2%98%95)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
