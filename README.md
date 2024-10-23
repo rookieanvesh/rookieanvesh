@@ -9,6 +9,19 @@
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+<div align="center">
+  <a href="https://github.com/SP-XD">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br>
+  </a>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rookieanvesh&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=rookieanvesh&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+</div>
 
 <div>
   <a href="https://www.linkedin.com/in/anvesh-/">
@@ -39,76 +52,109 @@ const anvesh = {
 
 <div align="center">
 
-<!-- Main Technologies -->
-<h3>Core Technologies & Frameworks</h3>
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<!-- Animated Skills -->
+<p align="center">
+<a href="https://skillicons.dev">
+  <!-- First Row: Frameworks & Main Tech -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,react,redux,kafka,docker,kubernetes&theme=dark&perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,react,redux,kafka,docker,kubernetes&theme=light&perline=7" />
+    <img width="500" alt="Shows a dynamic row of tech stack icons" src="https://skillicons.dev/icons?i=java,spring,react,redux,kafka,docker,kubernetes&perline=7" />
+  </picture>
+</a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="java" style="padding-right:10px;" />
+<!-- Second Row: Databases & Tools -->
+<a href="https://skillicons.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,azure&theme=dark&perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,azure&theme=light&perline=7" />
+    <img width="500" alt="Shows a dynamic row of database icons" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,azure&perline=7" />
+  </picture>
+</a>
 
-<img src="https://skillicons.dev/icons?i=spring" width="60" height="60" alt="spring" style="padding-right:10px;"/>
+<!-- Third Row: Frontend & Design -->
+<a href="https://skillicons.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,materialui,flutter&theme=dark&perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,materialui,flutter&theme=light&perline=7" />
+    <img width="500" alt="Shows a dynamic row of frontend tech icons" src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,materialui,flutter&perline=7" />
+  </picture>
+</a>
 
-<img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="react" style="padding-right:10px;"/>
+<!-- Fourth Row: Tools & Platforms -->
+<a href="https://skillicons.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,bash&theme=dark&perline=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,bash&theme=light&perline=7" />
+    <img width="500" alt="Shows a dynamic row of development tools icons" src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,bash&perline=7" />
+  </picture>
+</a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="redux" style="padding-right:10px;"/>
+<!-- Add these spinning 3D logos below -->
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react_3d.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java_3d.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/kubernetes_3d.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=kafka" width="60" height="60" alt="kafka" style="padding-right:10px;"/>
+<!-- Animated Tech Stack -->
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <div style="display: inline-block; animation: floating 3s ease-in-out infinite;">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        </div>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <div style="display: inline-block; animation: floating 3s ease-in-out infinite 0.5s;">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        </div>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <div style="display: inline-block; animation: floating 3s ease-in-out infinite 1s;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        </div>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <div style="display: inline-block; animation: floating 3s ease-in-out infinite 1.5s;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="60" height="60" alt="docker" style="padding-right:10px;"/>
+<!-- Add this CSS in your README for the floating animation -->
+<style>
+@keyframes floating {
+  0% { transform: translate(0, 0px); }
+  50% { transform: translate(0, 15px); }
+  100% { transform: translate(0, -0px); }
+}
+</style>
 
-<img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60" alt="kubernetes" style="padding-right:10px;"/>
-</div>
+<!-- Animated Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
-<!-- Databases -->
-<h3>Databases & Storage</h3>
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="mysql" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="postgres" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="mongodb" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=redis" width="60" height="60" alt="redis" style="padding-right:10px;"/>
-</div>
-
-<!-- Frontend & Design -->
-<h3>Frontend & Design</h3>
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="html" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="css" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="javascript" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="typescript" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="tailwind" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=materialui" width="60" height="60" alt="materialui" style="padding-right:10px;"/>
-</div>
-
-<!-- Tools & Platforms -->
-<h3>Tools & Platforms</h3>
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="git" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="github" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="aws" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="vscode" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=idea" width="60" height="60" alt="intellij" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="postman" style="padding-right:10px;"/>
-
-<img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="linux" style="padding-right:10px;"/>
-</div>
-
-<!-- For a cool 3D effect, add this animated border -->
-<br>
+<!-- Cool Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
