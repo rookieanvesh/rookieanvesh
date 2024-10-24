@@ -19,6 +19,7 @@
 </div>
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" style="border-radius: 10px; margin: 20px 0;"/>
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
