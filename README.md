@@ -1,10 +1,8 @@
 <div align="center">
   
 # 🌟 Anvesh Srivastava
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=0CF744&width=435&lines=final+year+student+at+vit+bhopal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=0CF744&width=435&lines=Final+year+%40+VIT+Bhopal;How+to+exit+Vim+%F0%9F%98%85;P+%3D+NP%3F%22%2C+%22Is+it+just+another+JS+framework%3F;I+don't+speak+dinosaur+(COBOL)!+%F0%9F%A6%96;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex)](https://git.io/typing-svg)
 <div align="center">
-
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
@@ -21,18 +19,6 @@
 </div>
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" style="border-radius: 10px; margin: 20px 0;"/>
-
-## 💫 About Me
-
-```typescript
-const anvesh = {
-    education: "Final year @ VIT Bhopal",
-    currentlyLearning: "How to exit Vim 😅",
-    philosophicalQuestions: ["P = NP?", "Is it just another JS framework?"],
-    funFact: "I don't speak dinosaur (COBOL)! 🦖"
-};
-```
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
