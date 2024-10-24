@@ -1,9 +1,9 @@
 <div align="center">
   
 # 🌟 Anvesh Srivastava
-
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=0CF744&width=435&lines=final+year+student+at+vit+bhopal)](https://git.io/typing-svg)
+<div align="center">
+
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
