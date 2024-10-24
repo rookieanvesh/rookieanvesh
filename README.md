@@ -3,8 +3,6 @@
 # 🌟 Anvesh Srivastava
 
 <div align="center">
- <img height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=0CF744&width=435&lines=final+year+student+at+vit+bhopal)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
