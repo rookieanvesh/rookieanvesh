@@ -1,5 +1,5 @@
 <div align="center">
-  <div align="center" width="60" height="60">
+  <div align="center" text="large">
 🌟 Anvesh Srivastava
   </div>
   
