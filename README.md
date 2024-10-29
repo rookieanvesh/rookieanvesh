@@ -1,5 +1,4 @@
 <div align="center">
-  <div align="center" text="large">
 🌟 Anvesh Srivastava
   </div>
   
