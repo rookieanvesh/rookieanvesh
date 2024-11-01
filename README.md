@@ -10,43 +10,11 @@
 
 <div style="color: #4d5156; padding-left: 8px;">🎓 github.com/rookieanvesh • Final Year Student • Full Stack Developer</div>
 
-```typescript
-class Developer {
-    name: string = "Anvesh Srivastava";
-    role: string = "Full Stack Developer";
-    location: string = "VIT Bhopal";
-    workingOn: string = "Microservices & Cloud Native Apps";
-    interests: string[] = ["System Design", "Distributed Systems", "Problem Solving"];
-}
-```
 
 ---
 
 ## Top Results 🎯
 
-### 💻 Technical Expertise
-<div style="padding-left: 16px; border-left: 4px solid #4285F4;">
-
-```yaml
-Backend Development:
-  └─ Enterprise Java:
-      ├─ Spring Boot
-      ├─ Microservices
-      └─ RESTful APIs
-
-Frontend Development:
-  └─ Modern JavaScript:
-      ├─ React.js
-      ├─ Redux
-      └─ TypeScript
-
-DevOps & Cloud:
-  └─ Containerization:
-      ├─ Docker
-      ├─ Kubernetes
-      └─ AWS
-```
-</div>
 
 ### 🔍 Featured Skills
 <div align="center">
