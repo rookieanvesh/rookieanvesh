@@ -1,98 +1,155 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&duration=2000&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=About+1%2C337%2C420+results+(0.42+seconds);Showing+results+for%3A+Anvesh+Srivastava" />
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&duration=2000&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=About+1%2C337%2C420+results+(0.42+seconds);Showing+results+for%3A+Final+Year+Student" />
 </div>
 
 <br>
 
 <div align="left">
 
-# [👨‍💻 Anvesh Srivastava](https://github.com/rookieanvesh) 
-> *Full Stack Developer | Final Year @VIT Bhopal*
+# [Anvesh Srivastava](https://github.com/rookieanvesh) <img src="https://img.shields.io/badge/Verified-4285F4?style=flat&logo=google&logoColor=white" height="20"/>
 
-<div style="color: #4d5156">https://github.com/rookieanvesh</div>
+<div style="color: #4d5156; padding-left: 8px;">🎓 github.com/rookieanvesh • Final Year Student • Full Stack Developer</div>
 
-A passionate developer specializing in Java, Spring Boot, and React. Currently exploring microservices architecture and cloud technologies. Open to collaboration and new opportunities.
+```typescript
+class Developer {
+    name: string = "Anvesh Srivastava";
+    role: string = "Full Stack Developer";
+    location: string = "VIT Bhopal";
+    workingOn: string = "Microservices & Cloud Native Apps";
+    interests: string[] = ["System Design", "Distributed Systems", "Problem Solving"];
+}
+```
 
 ---
 
-## People also ask
-<details>
-<summary><strong>What is his tech stack? 🛠️</strong></summary>
+## Top Results 🎯
+
+### 💻 Technical Expertise
+<div style="padding-left: 16px; border-left: 4px solid #4285F4;">
 
 ```yaml
-Languages & Frameworks:
-  ├─ Java + Spring Boot
-  ├─ JavaScript + React
-  ├─ TypeScript
-  └─ Redux
+Backend Development:
+  └─ Enterprise Java:
+      ├─ Spring Boot
+      ├─ Microservices
+      └─ RESTful APIs
 
-Architecture & Tools:
-  ├─ Microservices
-  ├─ Docker
-  └─ Kubernetes
+Frontend Development:
+  └─ Modern JavaScript:
+      ├─ React.js
+      ├─ Redux
+      └─ TypeScript
 
-Database Systems:
-  ├─ MySQL
-  ├─ PostgreSQL
-  ├─ MongoDB
-  └─ Redis
+DevOps & Cloud:
+  └─ Containerization:
+      ├─ Docker
+      ├─ Kubernetes
+      └─ AWS
 ```
-</details>
+</div>
 
-<details>
-<summary><strong>What are his notable projects? 💼</strong></summary>
-
-1. [**Hotel Management System**](https://github.com/rookieanvesh/hotel-management)
-   - Microservices-based booking platform
-   - Tech: Spring Boot, React, Docker
-
-2. [**Job Portal**](https://github.com/rookieanvesh/job-portal)
-   - Full-stack job search application
-   - Features: Real-time updates, Advanced search
-
-3. [**Microservices Template**](https://github.com/rookieanvesh/microservices)
-   - Cloud-native application architecture
-   - Includes: Service discovery, API Gateway
-</details>
-
-<details>
-<summary><strong>How to connect with him? 🤝</strong></summary>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvesh-/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaanvesh13@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rookieanvesh/)
-</details>
+### 🔍 Featured Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,redux,docker,kubernetes,aws" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,materialui" />
+</div>
 
 ---
 
-## Related statistics
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rookieanvesh&theme=google&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rookieanvesh&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-</div>
+## People also searched for 🤔
+<details>
+<summary><strong>What are his coding profiles? 📊</strong></summary>
 
-## Featured Results
+<div style="padding: 16px;">
 
-### 🏆 Competitive Programming
+### LeetCode Profile
 <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=light&font=Google%20Sans&ext=contest" width="100%" />
 
-### 📊 Skills & Technologies
+### GeeksForGeeks Profile
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=srivastavaanvesh13&theme=google" width="100%" />
+
+### CodeChef Profile
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,redux,docker,kubernetes" /> <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /> <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,materialui" />
+  <img src="https://cp-logo.vercel.app/codechef/rookieanvesh" alt="CodeChef" />
+</div>
+
+</div>
+</details>
+
+<details>
+<summary><strong>What projects has he worked on? 🚀</strong></summary>
+
+<div style="padding: 16px; background: #f8f9fa; border-radius: 8px;">
+
+### Featured Repositories
+<div align="center">
+  <a href="https://github.com/rookieanvesh/hotel-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=hotel-management&theme=google" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/rookieanvesh/microservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=microservices&theme=google" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/rookieanvesh/job-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=job-portal&theme=google" />
+  </a>
+</div>
+</div>
+</details>
+
+<details>
+<summary><strong>What are his GitHub statistics? 📈</strong></summary>
+
+<div style="padding: 16px;">
+
+### Activity Overview
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rookieanvesh&theme=google&hide_border=true" width="100%" />
+
+### Contribution Statistics
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rookieanvesh&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="100%" />
+
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookieanvesh&theme=google&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+
+</div>
+</details>
+
+---
+
+## Related Links 🔗
+<div style="display: flex; justify-content: center; gap: 12px;">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/rookieanvesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvesh-/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaanvesh13@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rookieanvesh/)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rookieanvesh&label=Profile+Views&style=for-the-badge&color=4285F4" />
+    <img src="https://komarev.com/ghpvc/?username=rookieanvesh&style=for-the-badge&color=4285F4&label=Profile+Views" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <em>Looking for more results? Connect with me to build something amazing! 🚀</em>
+    <details>
+        <summary><strong>💡 Did you find what you were looking for?</strong></summary>
+        <br/>
+        <em>If not, feel free to connect and let's create something amazing together! 🚀</em>
+    </details>
+</div>
+
+<!-- Google Search Footer -->
+<div align="center" style="margin-top: 20px; color: #70757a;">
+    <small>
+        Page 1 of about 1,337,420 results (0.42 seconds) <br/>
+        © 2024 - Present | Powered by Coffee ☕ and Code 💻
+    </small>
 </div>
 
 </div>
