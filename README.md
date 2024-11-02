@@ -10,7 +10,6 @@
 
 <div style="color: #4d5156; padding-left: 8px;">🎓 github.com/rookieanvesh • Final Year Student • Full Stack Developer</div>
 
-
 ---
 
 ## Top Results 🎯
