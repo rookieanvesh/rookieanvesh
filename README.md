@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&duration=2000&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=About+1+results+(0.42+seconds);Showing+results+for%3A+Anvesh+Srivastava" />
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&duration=2000&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=About+1+result+(0.42+seconds);Showing+results+for%3A+Anvesh+Srivastava" />
 </div>
 
 <br>
