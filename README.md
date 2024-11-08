@@ -1,188 +1,126 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background: #e0e0e0;
-      font-family: "Helvetica", sans-serif;
-      line-height: 1.4;
-      padding: 20px;
-    }
+<div align="center">
+  
+```
+╔══════════════════════════════════════════╗
+║ System 7.0                               ║
+║ Welcome to Macintosh                     ║
+╚══════════════════════════════════════════╝
+```
 
-    .window {
-      background: white;
-      border: 2px solid black;
-      border-radius: 5px;
-      max-width: 800px;
-      margin: 20px auto;
-      box-shadow: 5px 5px 0 rgba(0,0,0,0.8);
-    }
+</div>
 
-    .title-bar {
-      background: black;
-      color: white;
-      padding: 5px 10px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      font-weight: bold;
-    }
+```
+⌘ Finder
+   About This Programmer
+```
 
-    .window-buttons {
-      display: flex;
-      gap: 5px;
-    }
+# 📟 Anvesh Srivastava
+> [!NOTE]
+> Final Year Student • Full Stack Developer
+> Last login: `~/github/rookieanvesh`
 
-    .button {
-      width: 12px;
-      height: 12px;
-      border: 1px solid white;
-      border-radius: 50%;
-    }
+---
+### 🗂️ System Contents
+```
+/Users/anvesh/Skills
+├── 💾 Languages & Frameworks
+│   ├── java
+│   ├── spring
+│   ├── react
+│   ├── redux
+│   └── typescript
+│
+├── 🗄️ Databases
+│   ├── mysql
+│   ├── postgres
+│   └── mongodb
+│
+└── 🛠️ Tools
+    ├── docker
+    ├── kubernetes
+    └── aws
+```
 
-    .content {
-      padding: 20px;
-    }
+---
+### 💾 Mounted Volumes
 
-    h1, h2, h3 {
-      font-family: "Helvetica", sans-serif;
-      margin: 0;
-      padding: 5px 0;
-    }
+<details>
+<summary>📊 Performance Monitor</summary>
+<br>
 
-    .menu-bar {
-      background: white;
-      border-bottom: 2px solid black;
-      padding: 5px 10px;
-      display: flex;
-      gap: 15px;
-    }
+```
+SYSTEM STATISTICS
+----------------
+```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rookieanvesh&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-    .menu-item {
-      cursor: pointer;
-      padding: 2px 5px;
-    }
+```
+MEMORY ALLOCATION
+----------------
+```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rookieanvesh&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-    .menu-item:hover {
-      background: black;
-      color: white;
-    }
+</details>
 
-    .skills-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
-      gap: 10px;
-      padding: 10px;
-      border: 2px solid black;
-      margin: 10px 0;
-    }
+<details>
+<summary>💿 Programming Benchmarks</summary>
+<br>
 
-    .skill-icon {
-      width: 40px;
-      height: 40px;
-      filter: grayscale(100%);
-    }
+```
+LEETCODE PERFORMANCE
+-------------------
+```
+![LeetCode Stats](https://leetcard.jacoblin.cool/rookieanvesh?theme=light&font=Helvetica&ext=contest)
 
-    details {
-      border: 2px solid black;
-      margin: 10px 0;
-    }
+```
+GEEKSFORGEEKS STATUS
+-------------------
+```
+![GeeksforGeeks Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=srivastavaanvesh13&theme=google)
 
-    summary {
-      background: white;
-      padding: 5px 10px;
-      cursor: pointer;
-    }
+</details>
 
-    summary:hover {
-      background: black;
-      color: white;
-    }
+<details>
+<summary>📂 Project Directory</summary>
+<br>
 
-    .stats-box {
-      border: 2px solid black;
-      padding: 10px;
-      margin: 10px 0;
-    }
+```
+ACTIVE REPOSITORIES
+------------------
+```
+[![Hotel Management](https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=hotel-management&theme=graywhite)](https://github.com/rookieanvesh/hotel-management)
 
-    .social-links {
-      display: flex;
-      gap: 10px;
-      justify-content: center;
-      margin-top: 20px;
-    }
+[![Microservices](https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=microservices&theme=graywhite)](https://github.com/rookieanvesh/microservices)
 
-    .social-link {
-      background: black;
-      color: white;
-      padding: 5px 10px;
-      text-decoration: none;
-      border: 2px solid black;
-    }
+[![Job Portal](https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=job-portal&theme=graywhite)](https://github.com/rookieanvesh/job-portal)
 
-    .social-link:hover {
-      background: white;
-      color: black;
-    }
-  </style>
-</head>
-<body>
-  <div class="window">
-    <div class="title-bar">
-      <span>Finder - Anvesh Srivastava</span>
-      <div class="window-buttons">
-        <div class="button"></div>
-        <div class="button"></div>
-        <div class="button"></div>
-      </div>
-    </div>
-    
-    <div class="menu-bar">
-      <span class="menu-item">File</span>
-      <span class="menu-item">Edit</span>
-      <span class="menu-item">View</span>
-      <span class="menu-item">Special</span>
-    </div>
+</details>
 
-    <div class="content">
-      <h1>📁 Anvesh Srivastava</h1>
-      <p>🎓 Final Year Student • Full Stack Developer</p>
+---
+### 🔌 External Connections
+```
+NETWORK INTERFACES
+-----------------
+```
+<div align="center">
 
-      <div class="skills-grid">
-        <img src="https://skillicons.dev/icons?i=java" class="skill-icon" />
-        <img src="https://skillicons.dev/icons?i=spring" class="skill-icon" />
-        <img src="https://skillicons.dev/icons?i=react" class="skill-icon" />
-        <img src="https://skillicons.dev/icons?i=docker" class="skill-icon" />
-        <img src="https://skillicons.dev/icons?i=aws" class="skill-icon" />
-      </div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/rookieanvesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvesh-/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaanvesh13@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rookieanvesh/)
 
-      <details>
-        <summary>💾 Coding Profiles</summary>
-        <div class="stats-box">
-          <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=light&font=Helvetica&ext=contest" width="100%" />
-        </div>
-      </details>
+</div>
 
-      <details>
-        <summary>📂 Projects</summary>
-        <div class="stats-box">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=hotel-management&theme=graywhite" width="100%" />
-        </div>
-      </details>
+---
+<div align="center">
 
-      <details>
-        <summary>📊 Statistics</summary>
-        <div class="stats-box">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=rookieanvesh&theme=graywhite&hide_border=true" width="100%" />
-        </div>
-      </details>
+```
+System Status: Online
+Memory Used: ![Profile Views](https://komarev.com/ghpvc/?username=rookieanvesh&style=flat-square&color=green)
+```
 
-      <div class="social-links">
-        <a href="https://github.com/rookieanvesh" class="social-link">Portfolio</a>
-        <a href="https://www.linkedin.com/in/anvesh-/" class="social-link">LinkedIn</a>
-        <a href="mailto:srivastavaanvesh13@gmail.com" class="social-link">Email</a>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+```
+© 1984-2024 Apple Computer, Inc.
+```
+
+</div>
