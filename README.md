@@ -1,122 +1,188 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&duration=2000&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=About+1+result+in+(0.42+seconds);Showing+results+for%3A+Anvesh+Srivastava" />
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background: #e0e0e0;
+      font-family: "Helvetica", sans-serif;
+      line-height: 1.4;
+      padding: 20px;
+    }
 
-<br>
+    .window {
+      background: white;
+      border: 2px solid black;
+      border-radius: 5px;
+      max-width: 800px;
+      margin: 20px auto;
+      box-shadow: 5px 5px 0 rgba(0,0,0,0.8);
+    }
 
-<div align="left">
+    .title-bar {
+      background: black;
+      color: white;
+      padding: 5px 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-weight: bold;
+    }
 
-# [Anvesh Srivastava](https://github.com/rookieanvesh) <img src="https://img.shields.io/badge/Verified-4285F4?style=flat&logo=google&logoColor=white" height="20"/>
+    .window-buttons {
+      display: flex;
+      gap: 5px;
+    }
 
-<div style="color: #4d5156; padding-left: 8px;">🎓 github.com/rookieanvesh • Final Year Student • Full Stack Developer</div>
+    .button {
+      width: 12px;
+      height: 12px;
+      border: 1px solid white;
+      border-radius: 50%;
+    }
 
----
+    .content {
+      padding: 20px;
+    }
 
-## Top Results 🎯
+    h1, h2, h3 {
+      font-family: "Helvetica", sans-serif;
+      margin: 0;
+      padding: 5px 0;
+    }
 
+    .menu-bar {
+      background: white;
+      border-bottom: 2px solid black;
+      padding: 5px 10px;
+      display: flex;
+      gap: 15px;
+    }
 
-### 🔍 Featured Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,redux,docker,kubernetes,aws" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,materialui" />
-</div>
+    .menu-item {
+      cursor: pointer;
+      padding: 2px 5px;
+    }
 
----
+    .menu-item:hover {
+      background: black;
+      color: white;
+    }
 
-## People also searched for 🤔
-<details>
-<summary><strong>What are his coding profiles? 📊</strong></summary>
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+      gap: 10px;
+      padding: 10px;
+      border: 2px solid black;
+      margin: 10px 0;
+    }
 
-<div style="padding: 16px;">
+    .skill-icon {
+      width: 40px;
+      height: 40px;
+      filter: grayscale(100%);
+    }
 
-### LeetCode Profile
-<img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=light&font=Google%20Sans&ext=contest" width="100%" />
+    details {
+      border: 2px solid black;
+      margin: 10px 0;
+    }
 
-### GeeksForGeeks Profile
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=srivastavaanvesh13&theme=google" width="100%" />
+    summary {
+      background: white;
+      padding: 5px 10px;
+      cursor: pointer;
+    }
 
-### CodeChef Profile
-<div align="center">
-  <img src="https://cp-logo.vercel.app/codechef/rookieanvesh" alt="CodeChef" />
-</div>
+    summary:hover {
+      background: black;
+      color: white;
+    }
 
-</div>
-</details>
+    .stats-box {
+      border: 2px solid black;
+      padding: 10px;
+      margin: 10px 0;
+    }
 
-<details>
-<summary><strong>What projects has he worked on? 🚀</strong></summary>
+    .social-links {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      margin-top: 20px;
+    }
 
-<div style="padding: 16px; background: #f8f9fa; border-radius: 8px;">
+    .social-link {
+      background: black;
+      color: white;
+      padding: 5px 10px;
+      text-decoration: none;
+      border: 2px solid black;
+    }
 
-### Featured Repositories
-<div align="center">
-  <a href="https://github.com/rookieanvesh/hotel-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=hotel-management&theme=google" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/rookieanvesh/microservices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=microservices&theme=google" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/rookieanvesh/job-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=job-portal&theme=google" />
-  </a>
-</div>
-</div>
-</details>
+    .social-link:hover {
+      background: white;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <div class="window">
+    <div class="title-bar">
+      <span>Finder - Anvesh Srivastava</span>
+      <div class="window-buttons">
+        <div class="button"></div>
+        <div class="button"></div>
+        <div class="button"></div>
+      </div>
+    </div>
+    
+    <div class="menu-bar">
+      <span class="menu-item">File</span>
+      <span class="menu-item">Edit</span>
+      <span class="menu-item">View</span>
+      <span class="menu-item">Special</span>
+    </div>
 
-<details>
-<summary><strong>What are his GitHub statistics? 📈</strong></summary>
+    <div class="content">
+      <h1>📁 Anvesh Srivastava</h1>
+      <p>🎓 Final Year Student • Full Stack Developer</p>
 
-<div style="padding: 16px;">
+      <div class="skills-grid">
+        <img src="https://skillicons.dev/icons?i=java" class="skill-icon" />
+        <img src="https://skillicons.dev/icons?i=spring" class="skill-icon" />
+        <img src="https://skillicons.dev/icons?i=react" class="skill-icon" />
+        <img src="https://skillicons.dev/icons?i=docker" class="skill-icon" />
+        <img src="https://skillicons.dev/icons?i=aws" class="skill-icon" />
+      </div>
 
-### Activity Overview
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rookieanvesh&theme=google&hide_border=true" width="100%" />
+      <details>
+        <summary>💾 Coding Profiles</summary>
+        <div class="stats-box">
+          <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=light&font=Helvetica&ext=contest" width="100%" />
+        </div>
+      </details>
 
-### Contribution Statistics
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rookieanvesh&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="100%" />
+      <details>
+        <summary>📂 Projects</summary>
+        <div class="stats-box">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=hotel-management&theme=graywhite" width="100%" />
+        </div>
+      </details>
 
-### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookieanvesh&theme=google&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+      <details>
+        <summary>📊 Statistics</summary>
+        <div class="stats-box">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=rookieanvesh&theme=graywhite&hide_border=true" width="100%" />
+        </div>
+      </details>
 
-</div>
-</details>
-
----
-
-## Related Links 🔗
-<div style="display: flex; justify-content: center; gap: 12px;">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/rookieanvesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvesh-/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaanvesh13@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rookieanvesh/)
-
-</div>
-
----
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rookieanvesh&style=for-the-badge&color=4285F4&label=Profile+Views" />
-</div>
-
-<br/>
-
-<div align="center">
-    <details>
-        <summary><strong>💡 Did you find what you were looking for?</strong></summary>
-        <br/>
-        <em>If not, feel free to connect and let's create something amazing together! 🚀</em>
-    </details>
-</div>
-
-<!-- Google Search Footer -->
-<div align="center" style="margin-top: 20px; color: #70757a;">
-    <small>
-        Page 1 of about 1,337,420 results (0.42 seconds) <br/>
-        © 2024 - Present | Powered by Coffee ☕ and Code 💻
-    </small>
-</div>
-
-</div>
+      <div class="social-links">
+        <a href="https://github.com/rookieanvesh" class="social-link">Portfolio</a>
+        <a href="https://www.linkedin.com/in/anvesh-/" class="social-link">LinkedIn</a>
+        <a href="mailto:srivastavaanvesh13@gmail.com" class="social-link">Email</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
