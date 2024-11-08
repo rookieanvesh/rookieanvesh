@@ -1,134 +1,122 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&duration=2000&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=About+1+result+in+(0.42+seconds);Showing+results+for%3A+Anvesh+Srivastava" />
+</div>
 
-![](https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=24&duration=3000&pause=1000&color=646464&center=true&vCenter=true&repeat=false&width=435&lines=Anvesh+Srivastava)
+<br>
 
-<sup>FULL STACK DEVELOPER · FINAL YEAR STUDENT · PROBLEM SOLVER</sup>
+<div align="left">
+
+# [Anvesh Srivastava](https://github.com/rookieanvesh) <img src="https://img.shields.io/badge/Verified-4285F4?style=flat&logo=google&logoColor=white" height="20"/>
+
+<div style="color: #4d5156; padding-left: 8px;">🎓 github.com/rookieanvesh • Final Year Student • Full Stack Developer</div>
+
+---
+
+## Top Results 🎯
+
+
+### 🔍 Featured Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,redux,docker,kubernetes,aws" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,materialui" />
+</div>
+
+---
+
+## People also searched for 🤔
+<details>
+<summary><strong>What are his coding profiles? 📊</strong></summary>
+
+<div style="padding: 16px;">
+
+### LeetCode Profile
+<img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=light&font=Google%20Sans&ext=contest" width="100%" />
+
+### GeeksForGeeks Profile
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=srivastavaanvesh13&theme=google" width="100%" />
+
+### CodeChef Profile
+<div align="center">
+  <img src="https://cp-logo.vercel.app/codechef/rookieanvesh" alt="CodeChef" />
+</div>
+
+</div>
+</details>
+
+<details>
+<summary><strong>What projects has he worked on? 🚀</strong></summary>
+
+<div style="padding: 16px; background: #f8f9fa; border-radius: 8px;">
+
+### Featured Repositories
+<div align="center">
+  <a href="https://github.com/rookieanvesh/hotel-management">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=hotel-management&theme=google" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/rookieanvesh/microservices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=microservices&theme=google" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/rookieanvesh/job-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=job-portal&theme=google" />
+  </a>
+</div>
+</div>
+</details>
+
+<details>
+<summary><strong>What are his GitHub statistics? 📈</strong></summary>
+
+<div style="padding: 16px;">
+
+### Activity Overview
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rookieanvesh&theme=google&hide_border=true" width="100%" />
+
+### Contribution Statistics
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rookieanvesh&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="100%" />
+
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookieanvesh&theme=google&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
+
+</div>
+</details>
+
+---
+
+## Related Links 🔗
+<div style="display: flex; justify-content: center; gap: 12px;">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/rookieanvesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvesh-/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaanvesh13@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rookieanvesh/)
 
 </div>
 
-<br/>
+---
 
-<div align="left">
-
-*Hello, I'm Anvesh — a developer focused on creating elegant solutions to complex problems.*
-
-```ts
-const details = {
-  location: "India",
-  interests: ["System Design", "Cloud Native", "DevOps"],
-  currently: "Exploring the intersection of scalability and simplicity"
-}
-```
-
-<br/>
-
-## ⎯ Technical Proficiency
-
-<sub>PRIMARY TECHNOLOGIES</sub>
-```go
-backend  := []string{"Java", "Spring", "Microservices"}
-frontend := []string{"React", "Redux", "TypeScript"}
-cloud    := []string{"AWS", "Docker", "Kubernetes"}
-data     := []string{"MySQL", "MongoDB", "Redis", "Kafka"}
-```
-
-<br/>
-
-## ⎯ Development Metrics
-
-<sub>GITHUB ANALYTICS · UPDATED DAILY</sub>
-
-<table border="0">
-<tr>
-<td>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rookieanvesh&hide_border=true&background=00000000&stroke=646464&ring=646464&fire=646464&currStreakLabel=646464&sideNums=646464&currStreakNum=646464&sideLabels=646464&dates=646464)
-
-</td>
-<td>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rookieanvesh&layout=compact&hide_border=true&title_color=646464&text_color=646464&bg_color=00000000)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ⎯ Professional Development
-
-<sub>CODING PROFILES · COMPETITIVE PROGRAMMING</sub>
-
-<details>
-<summary><sup>VIEW STATISTICS →</sup></summary>
-<br/>
-
-<table border="0">
-<tr>
-<td>
-<img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=light&font=Inter&ext=contest&border=0" width="100%" />
-</td>
-<td>
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=srivastavaanvesh13&theme=light" width="100%" />
-</td>
-</tr>
-</table>
-
-</details>
-
-<br/>
-
-## ⎯ Notable Projects
-
-<sub>FEATURED REPOSITORIES · RECENT WORK</sub>
-
-<table border="0">
-<tr>
-<td width="33%">
-<a href="https://github.com/rookieanvesh/hotel-management">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=hotel-management&hide_border=true&title_color=646464&text_color=646464&icon_color=646464&bg_color=00000000" />
-</a>
-</td>
-<td width="33%">
-<a href="https://github.com/rookieanvesh/microservices">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=microservices&hide_border=true&title_color=646464&text_color=646464&icon_color=646464&bg_color=00000000" />
-</a>
-</td>
-<td width="33%">
-<a href="https://github.com/rookieanvesh/job-portal">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=job-portal&hide_border=true&title_color=646464&text_color=646464&icon_color=646464&bg_color=00000000" />
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ⎯ Connect
-
-<sub>PROFESSIONAL NETWORKS · CONTACT INFORMATION</sub>
-
-<div align="left">
-
-[![](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white&color=black)](https://github.com/rookieanvesh)
-[![](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/anvesh-/)
-[![](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:srivastavaanvesh13@gmail.com)
-[![](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=white&color=black)](https://leetcode.com/rookieanvesh/)
-
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=rookieanvesh&style=for-the-badge&color=4285F4&label=Profile+Views" />
 </div>
 
 <br/>
 
 <div align="center">
-<sup>PROFILE VISITS</sup>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=rookieanvesh&style=for-the-badge&color=000000&label=Views" />
+    <details>
+        <summary><strong>💡 Did you find what you were looking for?</strong></summary>
+        <br/>
+        <em>If not, feel free to connect and let's create something amazing together! 🚀</em>
+    </details>
+</div>
 
-<br/>
-<br/>
-
-<sup>© 2024 · Crafted with precision</sup>
-
+<!-- Google Search Footer -->
+<div align="center" style="margin-top: 20px; color: #70757a;">
+    <small>
+        Page 1 of about 1,337,420 results (0.42 seconds) <br/>
+        © 2024 - Present | Powered by Coffee ☕ and Code 💻
+    </small>
 </div>
 
 </div>
