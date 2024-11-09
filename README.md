@@ -76,18 +76,6 @@ Featured Skills
   <img src="https://cp-logo.vercel.app/codechef/rookieanvesh" alt="CodeChef stats" style="max-width: 500px;"/>
 </div>
 
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/anvesh-/">
-    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:srivastavaanvesh13@gmail.com">
-    <img src="https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rookieanvesh&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views"/>
@@ -97,12 +85,4 @@ Featured Skills
 </div>
 
 </div>
-<!-- Google Search Footer -->
-<div align="center" style="margin-top: 20px; color: #70757a;">
-    <small>
-        Page 1 of about 1,337,420 results (0.42 seconds) <br/>
-        © 2024 - Present | Powered by Coffee ☕ and Code 💻
-    </small>
-</div>
 
-</div>
