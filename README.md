@@ -11,11 +11,14 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </div>
+  
 🌟 Anvesh Srivastava
+  
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" style="border-radius: 10px; margin: 20px 0;"/>
+
 🛠️ Tech Arsenal
 Featured Skills
 <div align="center">
