@@ -1,116 +1,140 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&duration=2000&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=About+1+result+in+(0.42+seconds);Showing+results+for%3A+Anvesh+Srivastava" />
+
+# 🌟 Anvesh Srivastava
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=0CF744&width=435&lines=Final+year+%40+VIT+Bhopal;How+to+exit+Vim+%F0%9F%98%85;P+%3D+NP%3F%22%2C+%22Is+it+just+another+JS+framework%3F;I+don't+speak+dinosaur+(COBOL)!+%F0%9F%A6%96;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex)](https://git.io/typing-svg)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anvesh-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:srivastavaanvesh13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/rookieanvesh/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</div>
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" style="border-radius: 10px; margin: 20px 0;"/>
+
+## 🛠️ Tech Arsenal
+
+### Core Technologies & Frameworks
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="java" style="padding-right:10px;" />
+  <img src="https://skillicons.dev/icons?i=spring" width="60" height="60" alt="spring" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="react" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="60" height="60" alt="redux" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=kafka" width="60" height="60" alt="kafka" style="padding-right:10px;"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="60" height="60" alt="docker" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="60" height="60" alt="kubernetes" style="padding-right:10px;"/>
+</div>
+
+### Databases & Storage
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="mysql" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="60" height="60" alt="postgres" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="mongodb" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="60" height="60" alt="redis" style="padding-right:10px;"/>
+</div>
+
+### Frontend & Design
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="html" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="css" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="javascript" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="typescript" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="tailwind" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=materialui" width="60" height="60" alt="materialui" style="padding-right:10px;"/>
+</div>
+
+### Tools & Platforms
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="git" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="github" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="60" height="60" alt="aws" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="vscode" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="60" height="60" alt="intellij" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="60" height="60" alt="postman" style="padding-right:10px;"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="60" height="60" alt="linux" style="padding-right:10px;"/>
 </div>
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="left">
+## 🏆 Featured Projects
 
-# [Anvesh Srivastava](https://github.com/rookieanvesh) <img src="https://img.shields.io/badge/Verified-4285F4?style=flat&logo=google&logoColor=white" height="20"/>
-
-<div style="color: #4d5156; padding-left: 8px;">🎓 github.com/rookieanvesh • Final Year Student • Full Stack Developer</div>
-
----
-
-## Top Results 🎯
-
-
-### 🔍 Featured Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,redux,docker,kubernetes,aws" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,materialui" />
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/rookieanvesh/hotel-management">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=hotel-management&theme=radical&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/rookieanvesh/microservices">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=microservices&theme=radical&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/rookieanvesh/job-portal">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=job-portal&theme=radical&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+## 🏅 Achievements
 
-## People also searched for 🤔
-<details>
-<summary><strong>What are his coding profiles? 📊</strong></summary>
+[![@rookieanvesh's Holopin board](https://holopin.me/rookieanvesh)](https://holopin.io/@rookieanvesh)
 
-<div style="padding: 16px;">
+## 📊 GitHub Analytics
 
-### LeetCode Profile
-<img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=light&font=Google%20Sans&ext=contest" width="100%" />
-
-### GeeksForGeeks Profile
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=srivastavaanvesh13&theme=google" width="100%" />
-
-### CodeChef Profile
 <div align="center">
-  <img src="https://cp-logo.vercel.app/codechef/rookieanvesh" alt="CodeChef" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rookieanvesh&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rookieanvesh&theme=radical&hide_border=true" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rookieanvesh&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="stats graph" />
 </div>
 
+## 🏆 Coding Profiles
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://leetcard.jacoblin.cool/rookieanvesh?theme=dark&font=Fira%20Mono&ext=heatmap" alt="LeetCode Stats" style="max-width: 500px;"/>
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=srivastavaanvesh13" alt="GFG stats" style="max-width: 500px;"/>
+  <img src="https://cp-logo.vercel.app/codechef/rookieanvesh" alt="CodeChef stats" style="max-width: 500px;"/>
 </div>
-</details>
 
-<details>
-<summary><strong>What projects has he worked on? 🚀</strong></summary>
+## 🤝 Let's Connect!
 
-<div style="padding: 16px; background: #f8f9fa; border-radius: 8px;">
-
-### Featured Repositories
 <div align="center">
-  <a href="https://github.com/rookieanvesh/hotel-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=hotel-management&theme=google" />
+  <a href="https://www.linkedin.com/in/anvesh-/">
+    <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <br/><br/>
-  <a href="https://github.com/rookieanvesh/microservices">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=microservices&theme=google" />
+  <a href="mailto:srivastavaanvesh13@gmail.com">
+    <img src="https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <br/><br/>
-  <a href="https://github.com/rookieanvesh/job-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rookieanvesh&repo=job-portal&theme=google" />
-  </a>
-</div>
-</div>
-</details>
-
-<details>
-<summary><strong>What are his GitHub statistics? 📈</strong></summary>
-
-<div style="padding: 16px;">
-
-### Activity Overview
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rookieanvesh&theme=google&hide_border=true" width="100%" />
-
-### Contribution Statistics
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rookieanvesh&theme=default&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="100%" />
-
-### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookieanvesh&theme=google&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="100%" />
-
-</div>
-</details>
-
----
-
-## Related Links 🔗
-<div style="display: flex; justify-content: center; gap: 12px;">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/rookieanvesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvesh-/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivastavaanvesh13@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rookieanvesh/)
-
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rookieanvesh&style=for-the-badge&color=4285F4&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=rookieanvesh&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views"/>
+  <p>
+    <em>Open to exciting opportunities in software development! Let's build something amazing together! 🚀</em>
+  </p>
 </div>
 
-<br/>
-
-<div align="center">
-    <details>
-        <summary><strong>💡 Did you find what you were looking for?</strong></summary>
-        <br/>
-        <em>If not, feel free to connect and let's create something amazing together! 🚀</em>
-    </details>
 </div>
-
 <!-- Google Search Footer -->
 <div align="center" style="margin-top: 20px; color: #70757a;">
     <small>
